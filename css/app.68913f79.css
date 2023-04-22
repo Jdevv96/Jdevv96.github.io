@@ -210,7 +210,7 @@ body {
 }
 .projects-container {
   color: #fff;
-  height: 100%;
+  height: 90vh;
 }
 .section-title h2 {
   font-size: 3rem;
@@ -385,7 +385,7 @@ body {
   }
 }
 .contact-container {
-  height: 100%;
+  height: 90vh;
   padding-top: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
